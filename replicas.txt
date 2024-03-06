@@ -1,3 +1,9 @@
+Where:
+1st: Requests per second
+2nd:
+3rd:
+4th:
+
 ok: [localhost] => {
     "msg": " 1 replica ['    Req/Sec     0.89k    40.79     0.98k    76.17%']"
 }
