@@ -1,0 +1,17 @@
+ok: [localhost] => {
+    "msg": " 1 replica ['    Req/Sec     0.89k    40.79     0.98k    76.17%']"
+}
+
+ok: [localhost] => {
+    "msg": "2 replicas ['    Req/Sec     1.14k   227.26     1.78k    77.67%']"
+}
+
+
+ok: [localhost] => {
+    "msg": " 4 replicas['    Req/Sec     1.06k   197.88     1.34k    57.42%']"
+}
+
+
+ok: [localhost] => {
+    "msg": " 8 replicas ['    Req/Sec     1.06k   180.04     1.33k    61.67%']"
+}
